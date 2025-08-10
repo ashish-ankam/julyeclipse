@@ -19,7 +19,7 @@ public class TestAtm {
 					atm.atmWithdrawal();
 				} catch (CustomException1 e11) {
 					
-					System.out.println("Your attempts exhausted and blocked ");
+					System.out.println("Your attempts exhausted and blocked    ");
 					System.exit(0);
 					
 				}
